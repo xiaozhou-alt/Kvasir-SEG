@@ -1,0 +1,7 @@
+path: /kaggle/working/dataset
+train: images/train
+val: images/val
+
+
+nc: 1
+names: ['polyp']

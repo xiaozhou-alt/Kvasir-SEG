@@ -1,0 +1,4 @@
+https://www.kaggle.com/models/rexinshiminxiaozhou/kvasir-seg_gastric_polyp_detection
+
+best.pt 为最佳yolo检测模型
+best_model_mask.pth 为最佳语义分割模型（虽然也佳不到哪去）

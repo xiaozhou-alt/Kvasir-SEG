@@ -4,9 +4,7 @@
 
 [![DOI](https://img.shields.io/badge/Database-Kvasir%20SEG-blue.svg)](https://www.kaggle.com/datasets/debeshjha1/kvasirseg)
 [![Model](https://img.shields.io/badge/Model-YOLOv8n-green.svg)](https://www.ultralytics.com/)
-
 [![Model](https://img.shields.io/badge/Model-AttUNet-amber.svg)](https://unetstack.net/)
-
 [![DOI](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.mit.edu/)
 
 ---
